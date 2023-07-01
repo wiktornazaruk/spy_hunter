@@ -1055,8 +1055,6 @@ int main(int argc, char **argv) {
 
 
 		// draw legend
-		sprintf(text, "a");
-		DrawString(screen, LEGEND_X_CORD, LEGEND_Y_CORD - TEXT_HEIGHT, text, charset);
 		sprintf(text, "arrows: moving the player ");
 		DrawString(screen, LEGEND_X_CORD, LEGEND_Y_CORD, text, charset);
 		sprintf(text, "esc: quit the program");

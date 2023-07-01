@@ -1,28 +1,29 @@
-﻿  main.cpp
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(157,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(201,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(209,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(213,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(217,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(219,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(367,63): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(367,63): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(651,32): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(655,40): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(659,34): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(663,24): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(676,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(1047,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(1054,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(1046,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(1049,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(1052,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(1058,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(1060,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(1062,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(1064,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(1066,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(1068,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(1070,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wikto\Desktop\Projekty\spy_hunter\main.cpp(272,12): warning C4101: 'event': unreferenced local variable
-  szablon2vs19.vcxproj -> C:\Users\wikto\Desktop\Projekty\spy_hunter\x64\Debug\szablon2vs19.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (szablon2vs17.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(157,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(201,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(209,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(213,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(217,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(219,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(367,63): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(367,63): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(651,32): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(655,40): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(659,34): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(663,24): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(676,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(1047,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(1054,94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(1046,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(1049,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(1052,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(1058,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(1060,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(1062,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(1064,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(1066,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(1068,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(1070,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\main.cpp(272,12): warning C4101: 'event': unreferenced local variable
+  szablon2vs19.vcxproj -> C:\Users\wikto\Desktop\Studia\sem1\basicsOfProgramming\spy_hunter\x64\Debug\szablon2vs19.exe
