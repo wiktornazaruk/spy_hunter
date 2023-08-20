@@ -11,3 +11,5 @@ How to run:
 Preview photo:
 
 ![alt text](https://github.com/wiktornazaruk/spy_hunter/blob/main/preview.png?raw=true)
+
+more info about the game in spy-hunter-2022-12-19.pdf file
