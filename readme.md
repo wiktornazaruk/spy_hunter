@@ -8,4 +8,6 @@ How to run:
 5. open main file
 6. run program (ctrl + F5)
 
+Preview photo:
+
 ![alt text](https://github.com/wiktornazaruk/spy_hunter/blob/main/preview.png?raw=true)
