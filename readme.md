@@ -7,3 +7,5 @@ How to run:
 4. open one of the files with .vcxproj extension in Visual Studio
 5. open main file
 6. run program (ctrl + F5)
+
+![alt text](https://github.com/wiktornazaruk/spy_hunter/blob/main/preview.png?raw=true)
